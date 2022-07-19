@@ -44,3 +44,25 @@ p {
 .country-name {
   margin-left: 10px;
 }
+.info-title {
+  display: flex;
+  align-items: center;
+}
+.info-icon {
+  width: 50px;
+  height: 30px;
+  margin-left: 10px;
+}
+.info-country-name {
+  font-weight: bold;
+  font-size: 22px;
+  margin-left: 10px;
+}
+.stats {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 16px;
+}
+.info p {
+  margin-top: 10px;
+}
